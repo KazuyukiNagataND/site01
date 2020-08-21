@@ -1,0 +1,25 @@
+/* line 1, test.scss */
+header {
+  height: 200px;
+  max-width: 1200px;
+}
+/* line 4, test.scss */
+header nav {
+  height: 60px;
+}
+/* line 6, test.scss */
+header nav li {
+  display: inline-block;
+  float: left;
+  background: #fff;
+}
+
+/* line 13, test.scss */
+section#main {
+  width: 960px;
+  border-right: 6px;
+}
+/* line 16, test.scss */
+section#main .block {
+  border-radius: 10px;
+}
