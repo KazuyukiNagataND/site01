@@ -22,4 +22,5 @@ section#main {
 /* line 16, test.scss */
 section#main .block {
   border-radius: 10px;
+  pointer-events: auto;
 }

@@ -15,5 +15,6 @@ section#main{
 	border-right: 6px;
 	.block{
 		border-radius: 10px;
+		pointer-events: auto;
 	}
 }
