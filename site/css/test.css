@@ -23,4 +23,5 @@ section#main {
 section#main .block {
   border-radius: 10px;
   pointer-events: auto;
+  min-width: 20%;
 }
