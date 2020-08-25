@@ -21,4 +21,4 @@ relative_assets = true
 line_comments = true
  
 # SCSS記法とSass記法の切り替え（Sass記法利用時、コメント外す）
-preferred_syntax = :sass
+#preferred_syntax = :sass

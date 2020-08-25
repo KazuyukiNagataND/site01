@@ -1,9 +1,11 @@
-/* line 1, style.scss */
+@charset "UTF-8";
+/*コメントアウトのテスト1回目*/
+/* line 3, style.scss */
 section.block {
   margin: 0;
   padding: 0;
 }
-/* line 4, style.scss */
+/* line 6, style.scss */
 section.block div.block_all {
   pointer-events: none;
 }
