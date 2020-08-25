@@ -8,4 +8,5 @@ section.block {
 /* line 6, style.scss */
 section.block div.block_all {
   pointer-events: none;
+  box-sizing: border-box;
 }
