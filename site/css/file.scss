@@ -1,0 +1,9 @@
+@charset"UTF-8";
+section.block{
+	margin: 0;
+	padding: 0;
+	div.block_all{
+		pointer-events: none;
+		box-sizing: border-box;
+	}
+}
